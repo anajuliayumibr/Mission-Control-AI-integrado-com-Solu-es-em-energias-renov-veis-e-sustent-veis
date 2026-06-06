@@ -151,6 +151,15 @@ Estabilidade = Atenção (1 ponto)
 
 Pontuação total = 6 pontos → Missão Crítica
 
+----
+Impacto e Sustentabilidade
+----
+O monitoramento contínuo da energia solar permite:
+
+* Detectar perdas de eficiência antes que se tornem críticas
+* Prolongar a vida útil da missão gerenciando melhor a carga da bateria
+* Demonstrar como sistemas inteligentes podem maximizar o uso de fontes renováveis em ambientes extremos
+
 ---
 FUNÇÃO e DESCRIÇÃO
 
