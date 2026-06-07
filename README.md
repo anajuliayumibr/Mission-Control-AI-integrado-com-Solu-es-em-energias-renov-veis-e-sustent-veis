@@ -52,7 +52,7 @@ Cada coluna guarda uma informação específica:
 
 Status da missão 
 -----------
-NORMAL  ATENÇÃO / CRÍTICO
+NORMAL / ATENÇÃO / CRÍTICO
 
 ----
 Alertas 
