@@ -19,7 +19,7 @@ dados_missao = [
     [27, 83, 75, 95, 88],  # Ciclo 02 - Ajuste de trajetória
     [30, 66, 60, 92, 71],  # Ciclo 03 - Interferência solar leve
     [36, 45, 40, 88, 58],  # Ciclo 04 - Falha parcial no painel de energia
-    [41, 20, 14, 75, 32],  # Ciclo 05 - Tempestade de partículas - risco crítico
+    [41, 20, 14, 8, 32],  # Ciclo 05 - Tempestade de partículas - risco crítico
     [33, 58, 35, 83, 52],  # Ciclo 06 - Protocolo de recuperação ativado
     [29, 72, 47, 88, 62],  # Ciclo 07 - Recuperação parcial dos sistemas
     [23, 88, 63, 93, 78],  # Ciclo 08 - Estabilização pós-crise
